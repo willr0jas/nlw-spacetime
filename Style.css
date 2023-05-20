@@ -64,6 +64,7 @@ nav {
 
 .memory h1 {
   font-size: 2rem;
+  color: #bebebf;
 }
 
 .memory img {
@@ -137,8 +138,8 @@ aside span {
     grid-template-columns: 1fr;
     grid-template-rows: 0.2fr 0.8fr;
     grid-template-areas:
-    "profile"
-    "timeline";
+      "profile"
+      "timeline";
   }
   aside {
     border-right: none;
